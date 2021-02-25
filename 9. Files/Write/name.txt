@@ -1,0 +1,4 @@
+Alan
+I love Python
+I hate C
+Привет

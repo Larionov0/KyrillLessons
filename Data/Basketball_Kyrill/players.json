@@ -1,0 +1,26 @@
+[
+    {
+        "surname": "Abra",
+        "name": "Abram",
+        "middle_name": "Abramovich",
+        "height": 190.0
+    },
+    {
+        "surname": "Boba",
+        "name": "Boban",
+        "middle_name": "Bobovich",
+        "height": 175.5
+    },
+    {
+        "surname": "Ciso",
+        "name": "Cisco",
+        "middle_name": "Ciscovich",
+        "height": 210.0
+    },
+    {
+        "surname": "Oleg",
+        "name": "Olegovich",
+        "middle_name": "Olegovich",
+        "height": 1253.0
+    }
+]
