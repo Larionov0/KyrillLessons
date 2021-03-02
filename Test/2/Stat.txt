@@ -1,0 +1,5 @@
+Q-ty of symbols in file = 1200
+Q-ty of lines in file = 23
+Q-ty of vowels in file = 33
+Q-ty of consonants in file = 531
+Q-ty of digits in file = 6
